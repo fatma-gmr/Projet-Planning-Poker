@@ -1,0 +1,23 @@
+
+{
+  "name": "poker-planning-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/calc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies":{
+    "@babel/preset-env": "^7.23.5",
+    "babel-jest": "^29.7.0",
+    "ts-jest": "^29.1.1"  }
+}
+
+
